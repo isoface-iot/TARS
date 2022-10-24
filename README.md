@@ -7,7 +7,7 @@ TARS是商務軟體應用服務器，主要功能包括：資料庫存取、物�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 ![](images/ta03.jpg)
 
