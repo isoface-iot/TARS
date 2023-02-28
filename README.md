@@ -46,4 +46,4 @@ TARS是企業資源管理與物聯網整合的雲端平臺，併爲企業與工�
 
 * **TARS 簡介**：https://isoface.net/isoface/production/tool/tars
 * **TARS 幫助手冊**：https://isoface.net/isoface/doc/tars/main/
-* **TARS 快速上手**：https://isoface.net/isoface/study/quick-start/tars-2/tars
+* **TARS 快速上手**：https://isoface.net/isoface/study/quick-start/tool/tars
